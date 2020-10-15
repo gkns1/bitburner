@@ -1,3 +1,4 @@
 # bitburner
 
-JS code & WIP code for use in https://danielyxie.github.io/bitburner/ .
+Finished and code & WIP code for use in a browser game Bitburner.
+https://danielyxie.github.io/bitburner/
