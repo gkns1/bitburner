@@ -1,0 +1,4 @@
+while(true){
+    write(2,1);
+    sleep(60000);
+}
